@@ -1,1 +1,1 @@
-# GymModel
+# Entity–relationship model 
